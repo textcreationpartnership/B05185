@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for ordering the payment of debts, betweixt creditor and debitor. At Edinburgh the twelfth of July, 1661.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05185</idno>
+            <idno type="STC">Wing S1091</idno>
+            <idno type="STC">ESTC R183893</idno>
+            <idno type="EEBO-CITATION">51784640</idno>
+            <idno type="OCLC">ocm 51784640</idno>
+            <idno type="VID">175046</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05185)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175046)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2710:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for ordering the payment of debts, betweixt creditor and debitor. At Edinburgh the twelfth of July, 1661.</title>
+                  <author>Scotland. Parliament.</author>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II).</author>
+               </titleStmt>
+               <extent>13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>Anno Dom. 1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initial letter.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Collection laws --  Scotland --  Early works to 1800.</term>
+               <term>Credit --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Debtor and creditor --  Law and legislation --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:175046:1" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <q>HONI SOIT <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:175046:1"/>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:175046:2"/>
+            <pb facs="tcp:175046:2" rendition="simple:additions"/>
+            <p>AN ACT For ordering the payment of DEBTS, BETWIXT CREDITOR AND DEBITOR.</p>
+            <p>
+               <hi>At</hi> Edinburgh <hi>the twelfth of</hi> July, 1661.</p>
+            <figure>
+               <p>C R</p>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+            </figure>
+            <p>
+               <hi>EDINBURGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent MAJESTY, <hi>Anno Dom.</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:175046:3"/>
+            <pb n="3" facs="tcp:175046:3"/>
+            <head>An ACT for ordering the payment of Debts, betwixt Creditor and Debitor.</head>
+            <head type="sub">At <hi>Edinburgh</hi> the twelfth of <hi>July, 1661.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg>Vr Soveraign Lord, conſidering how ne<g ref="char:EOLhyphen"/>ceſſary and eſſential it is to the very being and flouriſhing of Kingdoms and Nati<g ref="char:EOLhyphen"/>ons, that there ſhould be a National confidence among the People themſelves, and with theſe of other Nations with whom they have correſpondence and traffick abroad; and that the moſt effectual and proper way to beget, cement, and main<g ref="char:EOLhyphen"/>tain the ſame, is, that Promiſes, Pactions, Obliege<g ref="char:EOLhyphen"/>ments and Debts be faithfully performed and ſatiſ<g ref="char:EOLhyphen"/>fied, without which there can be no truſt, and conſe<g ref="char:EOLhyphen"/>quently no ſociety, intercourſe and commerce at home, and all trade and traffick with other Nations will certainly decay and ceaſe, to the irreparable loſſe, ruine and diſcredit of the Nation: Yet, the troubles and dif<g ref="char:EOLhyphen"/>ficulties of the time being ſo great, that it is fit ſome breathing time and encouragement ſhould be given to the Debitors, for the better inableing them to keep their credit, and to take ſome effectual courſe for payment of their Debts. Therefore, His <hi>Majeſty,</hi> with advice and conſent of the Eſtates of Parliament, Statutes and Ordains, That for all Sums and Debts contracted before the tearm of Whitſonday, one thouſand ſix hun<g ref="char:EOLhyphen"/>dred and fifty eight years, and exceeding one thouſand pounds <hi>Scots</hi> of principal, perſonal execution ſhall be forborne by the ſpace of ſix years, to begin at Whitſon<g ref="char:EOLhyphen"/>day laſt by-paſt, in this inſtant year, one thouſand ſix hundred and ſixty one, Providing, that the Debitors make payment of one years Annualrent at Candle<g ref="char:EOLhyphen"/>meſſe next, in the year, one thouſand ſix hundred and ſixty two, and that the reſidue of the by-gone Annual<g ref="char:EOLhyphen"/>rents of the ſaid Sums, reſting unpaid at Whitſon<g ref="char:EOLhyphen"/>day
+<pb n="4" facs="tcp:175046:4"/>next, ſhall become and be made a principal Sum, and the Debitor ſhall give ſecurity for the ſame to theſe who have right to the by-gone Annualrents, when they take the benefit of the foreſaid forbearance, in man<g ref="char:EOLhyphen"/>ner aftermentioned; or at any other time that the ſame ſhall be demanded: Which Security to be granted for the ſaid by-gone Annualrents, made up in a principal Sum, ſhall bear obliegement to pay Annualrent for the ſame, in manner and from the tearms after-ſpeci<g ref="char:EOLhyphen"/>fied, <hi>viz.</hi> For a third part thereof, from Whitſonday next, one thouſand ſix hundred and ſixty two years; and for an other third part, from Martimeſſe thereaf<g ref="char:EOLhyphen"/>ter, in the ſaid year; and for the laſt third part, from Whitſonday, in the year one thouſand ſix hundred and ſixty three, during the not payment of the ſaid principal Sum ſo made up, for which perſonal execution is to be forborne, as for the other principal Sums, by the ſpace aforeſaid of ſix years after Whitſonday laſt. And without prejudice of the Security to be granted in manner foreſaid, it is alſo Declared and Ordained, that the ſaid by-gone Annualrents, are made up and ſhall be holden and eſteemed principal Sums; and that An<g ref="char:EOLhyphen"/>nualrents ſhall be due and payable for the ſame from the tearms and in manner foreſaid, and that execution ſhall follow at the inſtance of thoſe who have right to the ſame, upon and by vertue of their Bonds, Con<g ref="char:EOLhyphen"/>tracts, and Rights, and of this preſent Act and Ordi<g ref="char:EOLhyphen"/>nance in the ſame manner, as if a new Security were already granted in manner and of the tenour above-written.</p>
+            <p>And notwithſtanding of the premiſs, it is hereby Declared, that the Lords of Seſsion ſhall have power to grant and paſſe Suſpenſions for Sums, not exceed<g ref="char:EOLhyphen"/>ing one thouſand pounds, upon ſuch reaſons as they ſhall think juſt.</p>
+            <p>And where thoſe who have right to by-gone An<g ref="char:EOLhyphen"/>nualrents are only Liferenters, and have no right to the ſtock and principal Sum, It is Ordained, that it ſhall be lawfull to them to uſe execution for the whole by-gone Annualrents due to them, as they might have
+<pb n="5" facs="tcp:175046:4"/>done before the making of theſe Preſents; and that the ſaids Lords of Seſsion, ſhall have power to grant and paſs Suſpenſions againſt the ſaids Liferenters, in caſe they ſhall find juſt grounds and cauſe for granting of the ſame.</p>
+            <p>It is likewayes provided, that the benefit of the ſaid forbearance, ſhall only be granted and competent to ſuch Debitors, as ſhall pay the ſaid years Annualrent within the time foreſaid, and ſhall betwixt and the firſt of <hi>November,</hi> compear before any of the Lords of Seſ<g ref="char:EOLhyphen"/>ſion with the Clerk, and declare before them upon Oath, that their Debts exceeds the value of four years Rent of their Eſtate, pertaining to, and poſſeſt by them: which Declaration, extracted under the hand of the Clerk of Regiſter, or his Deputies, ſhall be a ſuf<g ref="char:EOLhyphen"/>ficient Security againſt Perſonal execution: And for which Extract, the Clerk Regiſter and his Deputies ſhall have for their Fees the ſum of thirty three ſhil<g ref="char:EOLhyphen"/>lings four pennies <hi>Scots,</hi> and no more. And it is De<g ref="char:EOLhyphen"/>clared, that all perſons, who ſhall not by themſelves, or their Tutors or Curators, appear and declare with<g ref="char:EOLhyphen"/>in the time, and in manner foreſaid, ſhall be excluded from the benefit of the foreſaid forbearance, and ſhall never be reponed or admitted thereafter upon any pre<g ref="char:EOLhyphen"/>text whatſoever.</p>
+            <p>And the benefit of the foreſaid forbearance being granted to the Debitors, or any of their Cautioners, upon the compearance and declaration foreſaid, ſhall only be perſonal for them and their Heirs and others re<g ref="char:EOLhyphen"/>preſenting them, and ſhall not be extended to thoſe who are bound with them, and lyable to the ſaids Debts, unleſs they alſo compear and declare, that their own proper Debts and Cautionry for perſons who have ta<g ref="char:EOLhyphen"/>ken the benefit of this Act, exceeds the value of four years Rent of their Eſtate, and that within the time and in manner foreſaid.</p>
+            <p>And for the more eaſe of the Debitors, it is Ordai<g ref="char:EOLhyphen"/>ned, that in caſe within the time of the forbearance fore<g ref="char:EOLhyphen"/>ſaid, the Debitor ſhall offer to the Creditor a part of
+<pb n="6" facs="tcp:175046:5"/>his Debt, not being beneath or within the third part of the whole Sums, due by him to the Creditor for the time, the Creditor in that caſe, ſhall be holden to accept of the ſaid partial payment, and in caſe of his refuſal, offer being made of a part of the ſaid Sums, not with<g ref="char:EOLhyphen"/>in the proportion foreſaid, in preſence of a Notar and Witneſſes, the Debitor, upon conſignation of the ſame in the hands of the Clerk of the Bills, ſhall be free of the Annualrent of that part of the ſaid Sum that ſhall be conſigned in all time coming, after the conſigna<g ref="char:EOLhyphen"/>tion foreſaid.</p>
+            <p>And whereas the legal reverſion of Compriſings, was formerly limited to ſeven years, His <hi>Majeſty,</hi> for the reaſons and with conſent foreſaid, is graciouſly pleaſed to extend the ſame to ten years in all time com<g ref="char:EOLhyphen"/>ing; and Statutes and Ordains, that all Compri<g ref="char:EOLhyphen"/>ſings, already deduced, and whereof the legal reverſion is not yet expired, or which ſhall be deduced any time hereafter, ſhall be redeemable within the ſpace of ten years after the date of the ſame; and all Compriſings deduced ſince <hi>January,</hi> one thouſand ſix hundred and fifty two years, and whereof the legals are expired, and all Compriſings deduced before the ſaid moneth of <hi>January,</hi> one thouſand ſix hundred and fifty two years, and which were not expired before the ſaid moneth of <hi>Ja<g ref="char:EOLhyphen"/>nuary,</hi> one thouſand ſix hundred and fifty two years, ſhall be redeemable within the ſpace of three years, af<g ref="char:EOLhyphen"/>ter Whitſonday now laſt by-paſt, notwithſtanding the legal reverſions of the ſame be now exp<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed.</p>
+            <p>And in caſe the Lands and others compriſed, exceed in yearly Rent and value the Annualrents of the Sums contained in the ſaids Compriſings, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the expence disburſed in obtaining Infeftments thereupon, and the Debitor ſhall deſire the Creditor to poſſeſs the Lands and others compriſed, it ſhall be lawfull to the Lords of Seſsion, like as the ſaids Lords are hereby impow<g ref="char:EOLhyphen"/>ered and authorized, upon a Supplication to be made to them by the Debitor and citation of the Compriſers, to appoint the Appriſers to poſſeſs ſuch of the ſaids
+<pb n="7" facs="tcp:175046:5"/>Lands and others during the legal reverſion, as the ſaids Lords of Seſsion ſhall think juſt and reaſonable, the ſaids Debitors alwayes giving poſſeſsion to thoſe who have right to the ſaids Compriſings, and ratifi<g ref="char:EOLhyphen"/>ing their poſſeſsion already apprehended by them (if any ſuch poſſeſsion they have) of ſuch of the ſaids Lands and others as the ſaids Lords of the Seſsion ſhall appoint, not being beneath in yearly Rent and value of the Annualrents above-mentioned; or other<g ref="char:EOLhyphen"/>wayes giving to the Creditors (whether they have poſ<g ref="char:EOLhyphen"/>ſeſsion or not) ſufficient Security, at the ſight of the ſaids Lords, for payment of the ſaids Annualrents, during the time foreſaid; the ſaids Lords of Seſsion having alwayes power to determine, whether in the caſes foreſaids the Debitor ſhall give Surety to the Creditor for his Annualrents, or the Debitor not being able to give Surety, the Creditor ſhall be oblieged to take poſſeſsion of the Debitors Lands: And if the Lords of Seſsion ſhall appoint, in the caſe foreſaid, the Creditor to be poſſeſt for his Annualrent, then, and in that caſe, the Debitor ſhall be holden to deliver the Evi<g ref="char:EOLhyphen"/>dents of the ſaids Lands to the Creditor or tranſumps thereof; providing alwayes, that the Creditors right, by vertue of the ſaids Compriſings, be no wayes pre<g ref="char:EOLhyphen"/>judged after the expiring of the ſame: And that th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whole Lands and others, both ſuch as ſhall be poſſeſ<g ref="char:EOLhyphen"/>ſed by the Debitor, and the remanent of the Lands and others contained in the ſaids Compriſings, ſhall pertain to the Creditor irredeemably.</p>
+            <p>And becauſe oftentimes Creditors, in regard they live at diſtance, or, upon other occaſions, are prejudged and preveened by the more timeous diligence of other Creditors, ſo that before they can know the condition of the common Debitor, his Eſtate is compriſed, and the poſterior Compriſers have only right to the legal reverſion, which may and doth often prove ineffectual to them, not being able to ſatisfie and redeem the prior Compriſings (their means and money being in the hands of the common Debitor) Therefore it is Sta<g ref="char:EOLhyphen"/>tute
+<pb n="8" facs="tcp:175046:6"/>and Ordained, That all Compriſings, deduced ſince the firſt day of <hi>January</hi> one thouſand ſix hundred and fifty two years, before the firſt effectual compriſing or after, but within year and day of the ſame, ſhall come in <hi>pari paſſu</hi> together, as if one compriſing had been deduced and obtained for the whole reſpective Sums, contained in the foreſaids Compriſings. And it is Declared, that ſuch Compriſings as are prefe<g ref="char:EOLhyphen"/>rable to all others in reſpect of the firſt real Right and Infeftment following thereupon, or the firſt exact diligence for obtaining the ſame, are and ſhall be hol<g ref="char:EOLhyphen"/>den the firſt effectual compriſing, though there be others in date before and anterior to the ſame; and the foreſaid benefit given and introduced hereby, in favours of theſe whoſe Compriſings are led within the time, and in manner foreſaid, is only granted and competent in the caſe of Compriſings, led ſince the firſt day of <hi>January,</hi> one thouſand ſix hundred and fifty two years, and to be led after the date of thir preſents, and for perſonal Debt only, without prejudice alwayes of ground Annuals, Annualrents due upon Infeft<g ref="char:EOLhyphen"/>ment, and other real Debts, and <hi>Debita fundi,</hi> and of Compriſings therefore of Lands and others affected therewith, which ſhall be effectual and preferable ac<g ref="char:EOLhyphen"/>cording to the Laws and Practick of this Kingdom now ſtanding; And it is alſo provided, that the Credi<g ref="char:EOLhyphen"/>tors, having right to the firſt compriſing, except as is above excepted, ſhall be ſatisfied by the poſterior Com<g ref="char:EOLhyphen"/>priſers, claiming the benefit foreſaid, of the whole ex<g ref="char:EOLhyphen"/>pence disburſed by them, in deducing and expeding the ſaid firſt Compriſing and Infeftments thereupon.</p>
+            <p>And further, for obviating the frequent and fraud<g ref="char:EOLhyphen"/>full practice of the appearand Heirs of Debitors, who are in uſe to acquire the right of expired Compri<g ref="char:EOLhyphen"/>ſings, and by vertue thereof, to enjoy and poſſeſs their Predeceſſors Lands and Eſtate, to the prejudice and defrauding of the poſterior Compriſings and other Creditors, It is Statute, that in caſe the appearand Heir of any Debitor, or any other confident perſon
+<pb n="9" facs="tcp:175046:6"/>to his behoof, ſhall at any time hereafter acquire the right of an expired Compriſing, already deduced, or which ſhall be led and deduced hereafter, the ſaid right ſhall be redeemable from the appearand Heir, or the ſaid confident perſon their Heirs and Succeſſors with<g ref="char:EOLhyphen"/>in the ſpace of ten years, after the acquiring of the ſaid right, by the poſterior Compriſers, upon payment allanerly of the Sums truely paid and given out, for buying and acquiring the ſaids rights, at the leaſt ſo much thereof as ſhall be reſting unſatisfied for the ſame, by the intromiſsion of the appearand Heir, or of the ſaid confident perſon, or their foreſaids.</p>
+            <p>And His <hi>Majeſty,</hi> with conſent foreſaid, doth De<g ref="char:EOLhyphen"/>clare, That the benefit foreſaid introduced hereby anent Compriſings, ſhall be extended to Adjudications for Debt; ſo that the Creditors, at whoſe inſtance the ſame are obtained, and thoſe who have right to re<g ref="char:EOLhyphen"/>deem the ſame, ſhall be in the ſame caſe as to the be<g ref="char:EOLhyphen"/>nefit foreſaid, as if the ſaid Adjudications for Debts were Compriſings.</p>
+            <p>And in caſe a Creditor, againſt whom the benefit of the foreſaid forbearance for ſix years ſhall be taken, or who hath led or ſhall lead a Compriſing againſt the Debitor, ſhall think fit, and be willing and de<g ref="char:EOLhyphen"/>ſirous to take his Debitors Lands, or other Eſtate, or any part thereof for ſecurity or payment, and in ſatisfaction of his Debt, then, and in either of theſe caſes, the Debitor ſhall be holden to give Security out of his Lands, and other Eſtate, or to ſell the ſame to the Creditor, at the ſight of the Lords of Seſ<g ref="char:EOLhyphen"/>ſion, with ſuch warrandize, and at ſuch rates and prices (if the Creditor be content to buy) as they ſhall appoint, with certification, that otherwayes the De<g ref="char:EOLhyphen"/>bitor, refuſing or failing, ſhall loſe and forfeit all be<g ref="char:EOLhyphen"/>nefit introduced in favours of the Debitors by this preſent Act, as if it had never been made.</p>
+            <p>And in regard ſome perſons may have taken ad<g ref="char:EOLhyphen"/>vantage of the late times and troubles, by taking and acquiring of proper Wodſets of Lands and
+<pb n="10" facs="tcp:175046:7"/>others, exceeding the Annualrent of the Sums lent upon the ſame; and providing nevertheleſſe, by the right of the foreſaids Wodſets and expreſſe proviſions therein, or by writ a part, that they ſhould not be ly<g ref="char:EOLhyphen"/>able to any hazard of the Fruits, Tennents, War, or Troubles; His <hi>Majeſty,</hi> with conſent foreſaid, Sta<g ref="char:EOLhyphen"/>tutes and Ordains, that all ſuch Wodſets, granted ſince the year one thouſand ſix hundred and fourty nine, ſhall be reſtricted to the ordinary Annualrent of the Sums whereupon the ſame are redeemable; and the ſaids Wodſetters, ſhall be countable for the <hi>ſuperplus</hi> of the Mailes and Duties and other benefit of the ſame, exceeding the Annualrent of the ſaids Sums, and the ſame ſhall be imputed and aſcribed, in ſatisfaction of the ſaid principal Sums <hi>pro tanto:</hi> And in caſe any ſuch Bargains and Rights, ſhall be made and acquired hereafter, His <hi>Majeſty,</hi> with con<g ref="char:EOLhyphen"/>ſent foreſaid, Declares the ſame unlawfull and uſu<g ref="char:EOLhyphen"/>rary, and the Contraveeners ſhall be puniſhed ſe<g ref="char:EOLhyphen"/>verely as Vſurers, conform to the Laws and Acts of Parliament againſt Ockerers and Vſurers.</p>
+            <p>And as to proper Wodſets, granted ſince the time foreſaid, where the Creditor undergoes the ſaid ha<g ref="char:EOLhyphen"/>zards, and the ſame are affected with the ordinar pro<g ref="char:EOLhyphen"/>viſions and clauſes irritant, in caſe of not payment of the Sums given out and due upon the ſaids Wodſets, at the tearmes and in manner mentioned in the ſaids Rights, albeit the ſaids Wodſets and Proviſions be lawfull; yet His <hi>Majeſty,</hi> conſidering and having re<g ref="char:EOLhyphen"/>ſpect to the difficulties of the times, Statutes and Ordains, with conſent foreſaid, That the ſaids Clauſes irritant, ſhall not take away the Heritors right, they alwayes redeeming within the ſpace of five years after Whitſonday laſt: And in caſe the Debi<g ref="char:EOLhyphen"/>tors conceive, that they have diſ-advantage by the ſaid proper Wodſets, and ſhall deſire to redeem the ſame, it ſhall be lawfull to them to redeem at any tearm of Whitſonday or Martimeſſe they pleaſe, notwithſtand<g ref="char:EOLhyphen"/>ing of any proviſion to the contrair in the ſaid Wod<g ref="char:EOLhyphen"/>ſet-rights,
+<pb n="11" facs="tcp:175046:7"/>or any other right a part ſuſpending the redemption thereof: Likeas it is Declared, That the Clauſes of requiſition contained in proper Wodſets, granted ſince the year one thouſand ſix hundred four<g ref="char:EOLhyphen"/>ty nine years, ſhall be effectual and no wayes ſuſpen<g ref="char:EOLhyphen"/>ded nor prejudged hereby; But prejudice alwayes to the forbearance of perſonal execution in manner above<g ref="char:EOLhyphen"/>written. And where the Creditors and Wodſetters have tranſacted with their Debitors and have acquired irredeemable rights, for, and in place of their former Wodſets, it is Ordained and Declared, That when, and at what time ſoever the ſaids Wodſets were gran<g ref="char:EOLhyphen"/>ted, whether before or ſince the year one thouſand ſix hundred and fifty years, the ſaids tranſactions and irredemable rights acquired by the Creditor for the ſame, are and ſhall be valide and effectual, and ſhall no wayes be prejudged by theſe preſents.</p>
+            <p>And further, His <hi>Majeſty,</hi> with conſent foreſaid, doth Declare, That in caſe any Debitors have by vo<g ref="char:EOLhyphen"/>luntait agreement betwixt them and their Creditors, or any of them, renounced the benefit of any Acts of this nature, concerning Debitor and Creditor, made, or to be made, the ſaid agreement ſhall be of force and effectual, and ſhall not be prejudged hereby, without prejudice alwayes to the ſaid Debitor of the proroga<g ref="char:EOLhyphen"/>tion foreſaid of the legal reverſions of Compriſiings led and deduced againſt them, and not as yet expired, notwithſtanding of the agreement and renounciati<g ref="char:EOLhyphen"/>on foreſaid.</p>
+            <p>And becauſe, before the year one thouſand ſix hun<g ref="char:EOLhyphen"/>dren and fifty, when money paſt at eight or ten <hi>per cent.</hi> divers proper Wodſets were then made and granted and are yet unredeemed; and ſince the beginning of <hi>January,</hi> one thouſand ſix hundred and fifty, there be divers perſons, who taking advantage of the times, refuſed to lend their money, unleſſe they got proper Wodſets of Lands and Teinds, at extraordinary ad<g ref="char:EOLhyphen"/>vantages, to the heavy prejudice of the Debitors: Therefore, His <hi>Majeſty,</hi> with advice foreſaid, Sta<g ref="char:EOLhyphen"/>tutes
+<pb n="12" facs="tcp:175046:8"/>and Ordains, That in time coming, during the not requiſition of the Sums whereupon the ſaids Wod<g ref="char:EOLhyphen"/>ſets are redeemable, and during the not redemption of the ſame reſpectively, if the Debitors ſhall give ſuf<g ref="char:EOLhyphen"/>ficient Security to the Wodſetter for payment of his Annualrent, during the not redemption, or not re<g ref="char:EOLhyphen"/>quiſition, as ſaid is; In that caſe, the Creditor, Wod<g ref="char:EOLhyphen"/>ſetter, ſhall be holden to renounce and quit his poſſeſſi<g ref="char:EOLhyphen"/>on of the ſaids Lands and Teinds, in favours of the Debitor and others having right from him, At leaſt if the Wodſetter ſhall be content to retain the poſſeſsion of the ſame; In that caſe all the free Profits and Rents, which he ſhall have or uplift out of the ſaids Lands, ſhall be reſtricted to ſix <hi>per cent.</hi> yearly of free money, and the Wodſetter ſhall be countable to the Debitor or others having right from him for the <hi>ſuper<g ref="char:EOLhyphen"/>plus;</hi> and that without prejudice of the Wodſetter's reall Right and Infeftment, ay and while the Lands be redeemed, and the principall Sum whereupon the ſame is redeemable ſhall be ſatisfied. It is alwayes provided, that where any Creditor hath had loſs by his poſſeſsion of the wodſet Lands and others ſince the date of his Wodſet, So that he hath not received as much free Rent as <hi>communibus annis</hi> hath extended to the Annualrent allowed by Law for the time, all charges and burdens being deduced, in that caſe, it is provided that the Wodſetter ſhall be firſt ſatisfied of what he wants before he quit his poſſesion of the ſaid wodſet Lands, or be holden to accept Security for his Annualrents: And it is Declared, that in the account of the Wodſetter's by-gone loſſe, there ſhall be allowed what he hath diſburſed upon reparation and building of Tennents houſes, Milnes, and for the advantage of the ground; and generally all other expence which the Wodſetter was put to, and what loſſe he ſuſtained in reference to the ſaid wodſet Lands, Rights and Se<g ref="char:EOLhyphen"/>curities thereof any manner of way; and what he hath loſt by Quarterings, Ceſſe, waſte Land, depaupe<g ref="char:EOLhyphen"/>rated Tennents, or by Tennents who were or are not
+<pb n="13" facs="tcp:175046:8"/>able to pay, unleſſe the ground ſhould be caſten waſte: And becauſe the Wodſetters probation of his ſaids loſſe may be difficile, he not conceiving that there ſhould be neceſſity for any ſuch count, or that there ſhould be any alteration made in the right and poſſeſ<g ref="char:EOLhyphen"/>ſion of his proper Wodſet, Therefore, His <hi>Majeſty,</hi> with advice foreſaid, doth allow the Lords of Seſ<g ref="char:EOLhyphen"/>ſion to take ſuch reaſonable probation as in equity they ſhall think fit: And if there be any deficiency, to take the Wodſetters oath in ſupplement; and where the Wodſetter is in natural poſſeſſion of the wodſet Lands by dwelling thereon or labouring the ſame with his own Plough and Goods, or other<g ref="char:EOLhyphen"/>wayes, having the ſame pleniſhed with his ſaids Goods, in that caſe, he ſhall not be holden to re<g ref="char:EOLhyphen"/>move from his ſaid poſſeſſion, but at the ordinary tearm of removing, and that he be lawfully warned fourty dayes before, and after ſufficient Security ſhall be made to him in manner above ſpecified before the ſaid warning.</p>
+            <p>And His <hi>Majeſty</hi> having granted ſo much favour, benefit and indulgence to Debitors as the like can<g ref="char:EOLhyphen"/>not be ſhown to have been granted at any time in this Kingdom, doth Declare, Statute and Ordain, That the Laws and Practick of the Kingdom con<g ref="char:EOLhyphen"/>cerning Debts and payment thereof and diligence and execution for the ſame, and concerning proper Wodſets, where the Creditor-wodſetter, hath the hazard of Fruits, Tennents, War and others, ſhall be obſerved inviolably, and be of full force, vigor and ef<g ref="char:EOLhyphen"/>fect in all time coming, excepting ſo far as the ſame is altered, innovat and repealed by this preſent Act.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175046:9"/>
+            <pb facs="tcp:175046:9"/>
+            <pb facs="tcp:175046:10"/>
+            <pb facs="tcp:175046:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
